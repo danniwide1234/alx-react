@@ -1,0 +1,19 @@
+{
+  "name": "0x04-react_inline_styling",
+  "version": "1.0.0",
+  "description": "Great concept",
+  "main": "index.js",
+  "dependencies": {
+    "aphrodite": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danniwide1234/https://github.com/danniwide1234/alx-react/tree/main/0x04-React_inline_styling"
+  }
+}
